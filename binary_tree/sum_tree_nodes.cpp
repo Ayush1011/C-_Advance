@@ -18,7 +18,8 @@ Node* newNode(int key)
 
 int addBT(Node* root)
 {
-    if(root==NULL){
+    if(root==NULL)
+    {
         return 0;
     }
 
